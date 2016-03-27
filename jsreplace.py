@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 ''' Script replaces content of inline JS script for any number of languages.
-    script illustrates EN2DE '''
+    Script illustrates EN2DE '''
 
 import jsLangs
 import os

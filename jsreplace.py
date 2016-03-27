@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-''' Script replaces content of inline JS script for any number of languages.
+''' Script replaces content of inline JS for any number of languages.
     Script illustrates EN2DE '''
 
 import jsLangs
